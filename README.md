@@ -14,7 +14,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxsars/xxsars/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center"><i>"Step by step, day by day."</i></p>
+<p align="center"><i>"Converging slowly but surely."</i></p>
 
 
 <!-- 🧠 ✨ 🎓 🚀 🔭 🌱 👯 🤔 💬 📧 📫 😄 ⚡ -->
